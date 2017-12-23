@@ -24,7 +24,7 @@ input,input[type=”button”], input[type=”submit”], input[type=”reset”
 #head{height:0.88rem}
 #head .logo{width:2.12rem;padding-left:0.06rem;padding-top: 0.19rem;}
 #head .logo img{height:0.48rem}
-#head .contact{font:0.22rem "microsoft yahei";color:#666;width:3.6rem;
+#head .contact{font:0.22rem "microsoft yahei";color:#666;
 padding-top: 0.46rem;}
 #banner{position:relative;height: 3.14rem;background: url("../img/banner_06.jpg")no-repeat center;background-size:contain;}
 #banner img{height:3.14rem}
